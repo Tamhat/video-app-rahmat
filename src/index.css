@@ -1,5 +1,25 @@
 
 body {
     font-family: 'Hanken Grotesk'!important;
-    
+    height: 100vh;
+    background: darkblue;
 }
+.brand-image{
+    width: 143px;
+    border-radius: 57% 42% 8% 56%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    left: 45%;
+    top: 33%;
+    transform: translate(11%, 147%);
+}
+
+
+.join-btn{
+    color: white;
+}
+
+
+
+
